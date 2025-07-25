@@ -38,4 +38,5 @@ build/
 .DS_Store!/.idea/easyCodeTableSetting.xml
 .idea/**
 .idea/easyCodeTableSetting.xml
-business-behavior-monitor.iml
+business-behavior-monitor.iml!/logData/log/log_error.log
+logData/**
