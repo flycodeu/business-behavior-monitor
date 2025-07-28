@@ -40,3 +40,5 @@ build/
 .idea/easyCodeTableSetting.xml
 business-behavior-monitor.iml!/logData/log/log_error.log
 logData/**
+/business-behavior-monitor-test/logData/log/log_info.log
+/business-behavior-monitor-test/logData/log/log_error.log
